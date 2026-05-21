@@ -3,7 +3,7 @@ name = "todo-app"
 version = "1.0.0"
 description = "Mera Todo App"
 requires-python = ">=3.10"
-dependencies = ["flet==0.24.1"]
+dependencies = ["flet==0.23.2"]
 
 [tool.flet]
 org = "com.todoapp"
